@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "venv\\Scripts\\python.exe"
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "D:\\Private\\Projects\\rest-tutorial\\venv\\Lib\\site-packages\\django\\**",
+        "D:\\Private\\Projects\\rest-tutorial\\venv\\Lib\\site-packages\\rest_framework\\**",
+    ],
 }
