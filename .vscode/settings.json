@@ -3,5 +3,6 @@
     "python.autoComplete.extraPaths": [
         "D:\\Private\\Projects\\rest-tutorial\\venv\\Lib\\site-packages\\django\\**",
         "D:\\Private\\Projects\\rest-tutorial\\venv\\Lib\\site-packages\\rest_framework\\**",
+        "D:\\Private\\Projects\\rest-tutorial\\venv\\Lib\\site-packages\\pygments\\**",
     ],
 }
